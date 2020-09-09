@@ -4,7 +4,7 @@
 -->
 
 - 🔭 I’m currently working on my **PhD thesis** and **Password Hardened Encryption Services (PHE)**
-- 🌱 I’m currently learning **Rust** and **Indoor Rowing 🚣**
+- 🌱 I’m currently learning [Rust](https://github.com/topics/rust), [Flutter](https://github.com/topics/flutter) and Indoor Rowing 🚣
 - 👯 I’m looking to collaborate on Password Security
 - 🤔 I’m looking for help with Business Development
 - 💬 Ask me about Automotive Security, Finance, Cryptocurrencies
