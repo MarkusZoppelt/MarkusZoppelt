@@ -5,8 +5,5 @@
 
 - 🔭 I’m currently working on my **PhD thesis** and **Password Hardened Encryption Services (PHE)**
 - 🌱 I’m currently learning [Rust](https://github.com/topics/rust), [Flutter](https://github.com/topics/flutter) and Indoor Rowing 🚣
-- 👯 I’m looking to collaborate on Password Security
-- 🤔 I’m looking for help with Business Development
 - 💬 Ask me about Automotive Security, Finance, Cryptocurrencies
 - 📫 How to reach me: [@MarkusZoppelt](https://twitter.com/MarkusZoppelt) on Twitter, [zoppelt.net](https://zoppelt.net)
-- ⚡ Fun fact: I have a rather big fragrance collection
